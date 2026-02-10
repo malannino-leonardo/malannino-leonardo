@@ -46,14 +46,16 @@ Creating dynamic and responsive websites for clients across various industries. 
 
 ### Animations & 3D
 ![PyOpenGL](https://img.shields.io/badge/PyOpenGL-88CE02?style=flat-square&logo=pyopengl&logoColor=white)
+![Pygame](https://img.shields.io/badge/PyGame-88CE02?style=flat-square&logo=pygame&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-8B5CF6?style=flat-square&logo=spline&logoColor=white)
 
 ### Tools & Deployment
+![VsCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7300?style=flat-square&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
