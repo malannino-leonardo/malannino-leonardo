@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Creative Technologist | Web Experience Designer**
 
-Welcome to my GitHub! I'm obsessed with building cool stuff on the web that actually makes people go "wow". I love playing with 3D animations, crafting interactive experiences, and experimenting with cutting-edge web technologies. Always tinkering, always learning.
+I combine creativity with technical expertise to deliver innovative web solutions. I specialize in creating immersive digital experiences by merging full-stack development with cutting-edge animations and 3D technologies. My focus is on building responsive, performant applications that work beautifully across all devices while solving real-world problems through thoughtful design and clean code.
 
 ---
 
@@ -10,17 +10,9 @@ Welcome to my GitHub! I'm obsessed with building cool stuff on the web that actu
 
 - 🎨 **Interactive Web Experiences** - Building immersive websites with smooth animations and engaging UI/UX
 - 🌐 **Full-Stack Development** - Creating scalable applications from frontend to backend
-- 🎬 **3D & Animation** - Integrating 3D models, GSAP animations, and Framer Motion effects
+- 🎬 **3D & Animation** - Integrating 3D models, animations, and motion effects
 - 📱 **Responsive Design** - Crafting beautiful, responsive websites that work seamlessly across all devices
 - 🔧 **Creative Problem Solving** - Turning ideas into reality with modern web technologies
-
----
-
-## 💼 Current Role
-
-**Freelancer Full Stack Developer** @ [Hyrise Studios](https://www.hyrisestudio.com/) *(Sep 2025 - Present)*
-
-Creating dynamic and responsive websites for clients across various industries. Collaborating with teams to deliver custom solutions that exceed expectations.
 
 ---
 
@@ -59,22 +51,6 @@ Creating dynamic and responsive websites for clients across various industries. 
 
 ---
 
-## 📚 Experience
-
-### 🎓 Student Developer
-**Sep 2021 - Present**
-- Actively learning and growing as a developer
-- Contributing to open-source projects
-- Building portfolio projects to showcase my skills
-
-### 🏢 Internship - Networking & IT Support
-**U-Blox Italy s.p.a.** | Jul - Aug 2024
-- Networking infrastructure and IT support
-- Cybersecurity solutions implementation
-- Corporate environment experience with CISCO technologies
-
----
-
 ## 🤝 Let's Connect
 
 I'd love to collaborate, chat about web development, or discuss cool project ideas!
@@ -83,19 +59,27 @@ I'd love to collaborate, chat about web development, or discuss cool project ide
 - 🐦 **Twitter/X**: [@Cronixey](https://x.com/Cronixey)
 - 📸 **Instagram**: [@leonardo.malannino](https://www.instagram.com/leonardo.malannino/)
 - 🌐 **Portfolio**: [malannino-leonardo.vercel.app](https://malannino-leonardo.vercel.app)
-
 ---
 
-## 🚀 Current Focus
+## 📊 GitHub Statistics
 
-- Mastering full-stack Next.js applications
-- Exploring advanced web experiences with React and Tailwind CSS
-- Deepening knowledge in performance optimization
-- Building more creative client solutions
+<div align="center">
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malannino-leonardo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 Commit Activity & Code Stats
+
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=malannino-leonardo&theme=dark-dimmed&hide_border=true)
+
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-270.000%2B-blue?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-10%2B-success?style=flat-square)
+![Contributions](https://img.shields.io/badge/Annual%20Contributions-500%2B-brightgreen?style=flat-square)
+
+</div>
 
 ---
-
-## 💡 Feel free to reach out!
 
 Whether you have a project idea, want to collaborate, or just want to chat about web development - I'm always up for it! 
 
