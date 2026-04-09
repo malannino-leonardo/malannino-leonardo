@@ -2,7 +2,9 @@
 
 **Full-Stack Developer | Creative Technologist | Web Experience Designer**
 
-I combine creativity with technical expertise to deliver innovative web solutions. I specialize in creating immersive digital experiences by merging full-stack development with cutting-edge animations and 3D technologies. My focus is on building responsive, performant applications that work beautifully across all devices while solving real-world problems through thoughtful design and clean code.
+I specialize in building the next generation of the web, where technical precision meets creative flair. 
+By combining full-stack expertise with cutting-edge animations, I deliver immersive digital experiences that captivate users without compromising on speed or scalability. 
+My goal is to create performant, future-proof applications that solve real-world challenges through elegant design and sophisticated interactivity.
 
 ---
 
