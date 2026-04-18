@@ -1,24 +1,26 @@
-# Hey there! 👋 I'm Leonardo Malannino
+# Hey, I'm Leonardo Malannino
 
-**Full-Stack Developer | Creative Technologist | Web Experience Designer**
+**Full-Stack Developer | Web Experience Designer**
 
-I specialize in building the next generation of the web, where technical precision meets creative flair. 
-By combining full-stack expertise with cutting-edge animations, I deliver immersive digital experiences that captivate users without compromising on speed or scalability. 
-My goal is to create performant, future-proof applications that solve real-world challenges through elegant design and sophisticated interactivity.
+## What I Do
 
----
-
-## 🚀 What I Do
-
-- 🎨 **Interactive Web Experiences** - Building immersive websites with smooth animations and engaging UI/UX
-- 🌐 **Full-Stack Development** - Creating scalable applications from frontend to backend
-- 🎬 **3D & Animation** - Integrating 3D models, animations, and motion effects
-- 📱 **Responsive Design** - Crafting beautiful, responsive websites that work seamlessly across all devices
-- 🔧 **Creative Problem Solving** - Turning ideas into reality with modern web technologies
+- **Interactive Web Experiences** - Building immersive websites with smooth animations and engaging UI/UX
+- **Full-Stack Development** - Creating scalable applications from frontend to backend
+- **3D & Animation** - Integrating 3D models, animations, and motion effects
+- **Responsive Design** - Crafting beautiful, responsive websites that work seamlessly across all devices
+- **Creative Problem Solving** - Turning ideas into reality with modern web technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+### Tools & Deployment
+![VsCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-2EA043?style=flat-square&logo=github-copilot&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7300?style=flat-square&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,42 +41,34 @@ My goal is to create performant, future-proof applications that solve real-world
 ![Apache](https://img.shields.io/badge/Apache-CA0B00?style=flat-square&logo=apache&logoColor=white)
 
 ### Animations & 3D
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyOpenGL](https://img.shields.io/badge/PyOpenGL-88CE02?style=flat-square&logo=pyopengl&logoColor=white)
 ![Pygame](https://img.shields.io/badge/PyGame-88CE02?style=flat-square&logo=pygame&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-8B5CF6?style=flat-square&logo=spline&logoColor=white)
 
-### Tools & Deployment
-![VsCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7300?style=flat-square&logo=xampp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'd love to collaborate, chat about web development, or discuss cool project ideas!
 
-- 💼 **LinkedIn**: [Leonardo Malannino](https://www.linkedin.com/in/leonardo-malannino-0b5160341/)
-- 🐦 **Twitter/X**: [@Cronixey](https://x.com/Cronixey)
-- 📸 **Instagram**: [@leonardo.malannino](https://www.instagram.com/leonardo.malannino/)
-- 🌐 **Portfolio**: [malannino-leonardo.vercel.app](https://malannino-leonardo.vercel.app)
+- **LinkedIn**: [Leonardo Malannino](https://www.linkedin.com/in/leonardo-malannino-0b5160341/)
+- **X**: [@Cronixey](https://x.com/Cronixey)
+- **Instagram**: [@leonardo.malannino](https://www.instagram.com/leonardo.malannino/)
+- **Portfolio**: [malannino-leonardo.vercel.app](https://malannino-leonardo.vercel.app)
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malannino-leonardo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### 📈 Commit Activity & Code Stats
+### Commit Activity & Code Stats
 
 ![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=malannino-leonardo&theme=dark-dimmed&hide_border=true)
-
 ![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-270.000%2B-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-10%2B-success?style=flat-square)
 ![Contributions](https://img.shields.io/badge/Annual%20Contributions-500%2B-brightgreen?style=flat-square)
@@ -83,9 +77,9 @@ I'd love to collaborate, chat about web development, or discuss cool project ide
 
 ---
 
-Whether you have a project idea, want to collaborate, or just want to chat about web development - I'm always up for it! 
+Whether you have a project idea, want to collaborate, or just want to chat about web development, I'm always up for it! 
 
-**Let's build something amazing together! 🎯**
+**Let's build something amazing together!**
 
 ---
 
