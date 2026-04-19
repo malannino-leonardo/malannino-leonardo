@@ -69,7 +69,7 @@ I'd love to collaborate, chat about web development, or discuss cool project ide
 ### Commit Activity & Code Stats
 
 ![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=malannino-leonardo&theme=dark-dimmed&hide_border=true)
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-270.000%2B-blue?style=flat-square)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-300.000%2B-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-10%2B-success?style=flat-square)
 ![Contributions](https://img.shields.io/badge/Annual%20Contributions-500%2B-brightgreen?style=flat-square)
 
