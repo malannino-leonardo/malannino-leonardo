@@ -14,11 +14,13 @@
 
 ## Tech Stack
 ### Tools & Deployment
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=antigravity&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-c15f3c?style=flat-square&logo=claude&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-2EA043?style=flat-square&logo=github-copilot&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7300?style=flat-square&logo=xampp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
