@@ -57,7 +57,7 @@ I'd love to collaborate, chat about web development, or discuss cool project ide
 - **LinkedIn**: [Leonardo Malannino](https://www.linkedin.com/in/leonardo-malannino-0b5160341/)
 - **X**: [@Cronixey](https://x.com/Cronixey)
 - **Instagram**: [@leonardo.malannino](https://www.instagram.com/leonardo.malannino/)
-- **Portfolio**: [malannino-leonardo.vercel.app](https://malannino-leonardo.vercel.app)
+- **Portfolio**: [malannino-leonardo.vercel.app](https://leomal.it/)
 ---
 
 ## GitHub Statistics
