@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="199" height="47" rx="8" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+  <g transform="translate(14, 12)">
+    <rect width="20" height="20" x="2" y="2" rx="5" ry="5" fill="none" stroke="#e1306c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" fill="none" stroke="#e1306c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5" stroke="#e1306c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="46" y="22" fill="#e6edf3" font-size="13" font-weight="600" letter-spacing="0.2px">Instagram</text>
+  <text x="46" y="37" fill="#7d8590" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">@leonardo.malannino</text>
+  <path d="M182 21 L187 24 L182 27" stroke="#7d8590" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
