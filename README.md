@@ -1,13 +1,13 @@
 <div align="center">
 
-<h3><code>leonardo@github ~ $ ./contributions.sh</code></h3>
+<h3><code>leonardo@github:~$ git log</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Leonardo Malannino GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>leonardo@github ~ $ whoami</code></h3>
+<h3><code>leonardo@github:~$ whoami</code></h3>
 
 <table>
   <tr>
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<h3><code>leonardo@github ~ $ ./about.sh</code></h3>
+<h3><code>leonardo@github:~$ cat about.txt</code></h3>
 
 <p><strong>Full-Stack Developer &amp; Web Experience Designer</strong></p>
 <p>Full-stack developer, handling everything from planning, implementing and maintaining software. I have experience with web development, database design and implementation, animations, and much more.</p>
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<h3><code>leonardo@github ~ $ ./tech-stack.sh</code></h3>
+<h3><code>leonardo@github:~$ ls tech-stack</code></h3>
 
 <h4>Tools &amp; Deployment</h4>
 
@@ -79,7 +79,7 @@
 <br>
 <br>
 
-<h3><code>leonardo@github ~ $ ./connect.sh</code></h3>
+<h3><code>leonardo@github:~$ ./connect.sh</code></h3>
 
 <p>I'd love to collaborate, chat about web development, or discuss cool project ideas!</p>
 
