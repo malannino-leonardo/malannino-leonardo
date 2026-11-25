@@ -21,8 +21,8 @@
 
 <h3><code>leonardo@github:~$ cat about.txt</code></h3>
 
-<p><strong>Full-Stack Developer &amp; Web Experience Designer</strong></p>
-<p>Full-stack developer, handling everything from planning, implementing and maintaining software. I have experience with web development, database design and implementation, animations, and much more.</p>
+<p><strong>Full-Stack Developer &amp; Web Designer</strong></p>
+<p>Full-stack developer focused on planning, building, and maintaining web applications end-to-end. I handle everything from database design to the frontend, using AI agents in my IDE to speed up prototyping, testing, and shipping.</p>
 
 <br>
 <br>
