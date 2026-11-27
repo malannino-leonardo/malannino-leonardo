@@ -1,11 +1,11 @@
 {
   "username": "malannino-leonardo",
-  "generated_at": "2026-11-26T16:49:26Z",
+  "generated_at": "2026-11-27T16:35:29Z",
   "range": {
     "start": "2025-11-23",
-    "end": "2026-11-26"
+    "end": "2026-11-27"
   },
-  "total_contributions": 1097,
+  "total_contributions": 1095,
   "active_days": 232,
   "avg_per_active_day": 4.7,
   "current_streak": {
@@ -49,7 +49,7 @@
     },
     {
       "month": "2026-05",
-      "total": 93
+      "total": 89
     },
     {
       "month": "2026-06",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 208
+      "total": 210
     }
   ],
   "days": [
@@ -909,8 +909,8 @@
     },
     {
       "date": "2026-05-08",
-      "count": 5,
-      "level": 2
+      "count": 2,
+      "level": 1
     },
     {
       "date": "2026-05-09",
@@ -934,7 +934,7 @@
     },
     {
       "date": "2026-05-13",
-      "count": 3,
+      "count": 2,
       "level": 1
     },
     {
@@ -1919,8 +1919,13 @@
     },
     {
       "date": "2026-11-26",
-      "count": 5,
+      "count": 7,
       "level": 2
+    },
+    {
+      "date": "2026-11-27",
+      "count": 0,
+      "level": 0
     }
   ]
 }
